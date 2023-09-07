@@ -9,5 +9,6 @@ int euclid_gcd(int a, int b){
 }
 
 int main(){
-  cout << euclid_gcd(60,29);
+  cout << euclid_gcd(60,29);// finds the gcd of 60 and 29
 }
+//p.s when entering the values to the function, the first value should be greater than the second value
